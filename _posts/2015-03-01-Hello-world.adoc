@@ -1,0 +1,3 @@
+# Hello world !
+
+Voici un test de **hubpress**, le site statique sans avoir à installer 1000 trucs sur son PC/Mac/*nix !
